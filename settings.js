@@ -48,12 +48,12 @@ global.ig = 'https://github.com/KaiZax' //Github Account!
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done Cuy✅',
-    admin: '*Khusus Admin Cuy! 😴*',
+    admin: '*Khusus Admin Cuy!😴*',
     botAdmin: 'Bot Bukan Admin Njir!😞',
-    owner: '*Khusus Owner! Luwh mau ngapain?*',
+    owner: '*Khusus Owner! Luwh mau ngapain?🤨*',
     group: '*Fitur Khusus Group!*',
     private: '*Fitur Private Chat!*',
-    bot: 'This Feature Is Only For Bot😝',
+    bot: 'Fitur Khusus Bot Njing!😠',
     wait: '▰▰▰▱▱▱▱▱▱Loading...',
     error: 'Error!!! Maaf Cok!',
     endLimit: '*Awoakwokaowk Limitmu Habis Coy! Mampus🗿*',
