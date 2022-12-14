@@ -19,28 +19,28 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Vinz Cuy😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is Meffixx Botz
+My Creator is Zibanex😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+6287734910547'] //Owner number in aive msg
-global.premium = ['+6287734910547'] //Owner Number info
-global.ownernomer = '+6287734910547' //Owner Number <<<
+global.owner = ['+628981614707'] //Owner number in aive msg
+global.premium = ['+628981614707'] //Owner Number info
+global.ownernomer = '+628981614707' //Owner Number <<<
 
-global.ownername = '𝑽𝒊𝒏𝒛𝑿𝒉𝒊𝒎𝒎𝒆𝒓' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = `Zibanex` //Owner Name
+global.botname = '  Meffixx Botz //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/KaiZax' //Change Your Button's URL
 
-global.region = 'Indonesia, Jawa Tengah, Semarang' //Country Region
+global.region = 'Indonesia, Jawa Tengah, Depok' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '𝑽𝒊𝒏𝒛𝑿𝒉𝒊𝒎𝒎𝒆𝒓❯❯' //Author Name
+global.packname = 'Meffixx Botz' //Bot Pacage Name
+global.author = Zibanex //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©Zibanex.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/KaiZax' //Github Account!
